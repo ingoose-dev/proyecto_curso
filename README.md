@@ -12,7 +12,7 @@ Este es tu **punto de partida**. La estructura ya está armada; tú construyes l
 Haz un **fork** para tener tu copia, clónala, e instala:
 
 ```bash
-git clone https://github.com/TU-USUARIO/IPSS-DIPLOMADO-CURSO3-Evaluacion-Final.git
+git clone https://github.com/ingoose-dev/proyecto_curso.git
 cd IPSS-DIPLOMADO-CURSO3-Evaluacion-Final
 npm install
 ```
